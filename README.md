@@ -1,2 +1,2 @@
-# My Projects
+# My Data Analysis Projects
 List above are projects that I have developed, both in a personal and professional capacity. The SQL projects are all from my current employment as a business systems analyst, while the Power BI projects are a mix of professional and personal. The employee data in "Terms" has been altered for data privacy concerns.
