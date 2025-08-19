@@ -38,3 +38,5 @@ INNER JOIN job ON
 emp.a_job_code_primary = job.prjb_code
 
 GROUP BY job.prjb_long
+
+ORDER BY job.prjb_long
